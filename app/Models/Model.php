@@ -30,7 +30,7 @@ abstract class Model
     protected function update() {}
     protected function delete() {}
 
-    protected function safe(): void {}
 
+    protected function safe(): void {}
     private function filter():void {}
 }
